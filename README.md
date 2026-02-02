@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an *Action Adventure game on Unreal Engine 5***
 
-- 🌱 I’m currently learning **C, C++, C#, Python**
+- 🌱 I’m currently learning **C, C++, C#**
 
 - 💬 Ask me about **C, C++, C#**
 
