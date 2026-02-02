@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A 3rd Year Engineering Student at Isart Digital Paris</h3>
 
-- 🔭 I’m currently working on **Networking Projects**
+- 🔭 I’m currently working on an *Action Adventure game on Unreal Engine 5***
 
 - 🌱 I’m currently learning **C, C++, C#, Python**
 
