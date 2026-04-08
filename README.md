@@ -7,7 +7,7 @@
 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ethan-ruhlmann-a2ba62311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethan-ruhlmann-a2ba62311/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ethan-ruhlmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethan-ruhlmann/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
