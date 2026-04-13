@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ethan</h1>
 <h3 align="center">I'm currently a 3rd Year Game Programming/Engineering Student at Isart Digital Paris</h3>
 
-- 📋 My current project is an ***Action Adventure** game on Unreal Engine 5.6***
+- 📋 I am currently working on [Kayou Suite](https://github.com/Kayou-Corporation), a custom 3D Game Engine based on c++23 and Vulkan, and also an ***Action Adventure** game on Unreal Engine 5.6***
 
 - 🧠 As of right now, I am (mainly) learning about **C, C++, C#, Gameplay programming and Game Engine development**
 
